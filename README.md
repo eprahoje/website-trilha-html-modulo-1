@@ -3,7 +3,7 @@
 A ideia deste desafio de projeto é elaborar um website, utilizando uma estrutura bem básica com tags aprendidas durante as aulas práticas na [DIO](https://www.dio.me/)
 
 ### ✅ Desenvolvimento
-O conteúdo do website fala um pouco sobre diversos fatores que compõem uma página HTML, incluindo um fator que é crucial para o funcioanamento da internet: A tecnologia Cliente-Servidor.
+O conteúdo do website fala um pouco sobre diversos fatores que compõem uma página HTML, incluindo um fator que é crucial para o funcionamento da internet: A tecnologia Cliente-Servidor.
 
 ### 📌 Saída
 ![Website do desafio do módulo 1](https://github.com/user-attachments/assets/ba89513f-a7e9-4fbd-9d4d-5fc07af9bd19)
